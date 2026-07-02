@@ -1,0 +1,19 @@
+{
+  "title": "Forschungsportal thefreshmind4o",
+  "description": "Portal des Forschungsökosystems: sichtbare Projektstände, Verweise und DOI-Pfade.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "apache-2.0",
+  "creators": [
+    {
+      "name": "Heiler, Maximilian",
+      "affiliation": "Independent Researcher, Hamburg",
+      "orcid": "0009-0003-2785-1710"
+    }
+  ],
+  "keywords": [
+    "portal",
+    "github-pages",
+    "forschungsoekosystem"
+  ]
+}
